@@ -35,32 +35,6 @@ SoundBoard V6.1 est l'outil audio ultime pour les administrateurs de serveurs Da
 3. Ajoutez le mod à la ligne de commande de lancement du serveur.
 4. Assurez-vous que les clients ont également le mod et le CF installés.
 
-## Structure des fichiers
-@SoundBoard/
-├── Addons/
-│ └── SoundBoard.pbo
-├── Keys/
-│ └── SoundBoard.bikey
-├── Music/
-│ └── [vos fichiers .ogg ici]
-├── gui/
-│ ├── images/
-│ │ ├── logo.paa
-│ │ └── logo_small.paa
-│ └── layouts/
-│ └── SoundBoardMenu.layout
-└── Scripts/
-├── 3_Game/
-│ └── SoundBoardVersion.c
-├── 4_World/
-│ ├── SoundBoardManager.c
-│ └── SoundBoardSettings.c
-└── 5_Mission/
-├── SoundBoardMenu.c
-└── SoundBoardInputHandler.c
-├── config.cpp
-├── mod.cpp
-└── LICENSE
 
 ## Configuration
 ### Ajout de chansons
