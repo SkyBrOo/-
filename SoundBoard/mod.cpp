@@ -1,0 +1,9 @@
+name = "SoundBoard";
+picture = "SoundBoard/gui/images/logo.paa";
+logo = "SoundBoard/gui/images/logo.paa";
+logoSmall = "SoundBoard/gui/images/logo_small.paa";
+tooltip = "SoundBoard";
+overview = "A mod that adds a customizable soundboard to DayZ.";
+action = "https://github.com/yourusername/SoundBoard";
+author = "🆅🅴🅶🅰🆂";
+version = "5.0";
